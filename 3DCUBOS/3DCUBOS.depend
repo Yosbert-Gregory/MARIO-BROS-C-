@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1575218813 source:c:\users\windows\documents\s…ptimo semestre\grafiaci”n\3dcubos\main.cpp
+	<Windows.h>
+	<C:\GLUT\include\GL\glut.h>
+	<stdio.h>
+	<stdarg.h>
+	<math.h>
+
+976692172 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893404800 c:\glut\include\gl\gl.h
+
+893404800 c:\glut\include\gl\glu.h
+	<GL/gl.h>
+
